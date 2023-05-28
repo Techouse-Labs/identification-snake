@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386295246672",
+    "project_id": "pengenalan-jenis-ular-aja",
+    "storage_bucket": "pengenalan-jenis-ular-aja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386295246672:android:389b543ff94df49d020655",
+        "android_client_info": {
+          "package_name": "com.steven.pengenalanjenisularajamas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386295246672-jgfli8d7fu4ou8ejgnsmll53jfo1vrku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXUMMO_Iv_snCFx2hQN_iJW0o9Zgux9sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386295246672-jgfli8d7fu4ou8ejgnsmll53jfo1vrku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

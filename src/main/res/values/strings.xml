@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pengenalan Jenis Ular</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="jenis_ular">Jenis Ular</string>
+    <string name="tambah">Tambah</string>
+    <string name="tambah_jenis">Tambah Jenis</string>
+    <string name="nama_jenis">Nama Jenis</string>
+    <string name="tambahkan">Tambahkan</string>
+    <string name="tambah_ular">Tambah Ular</string>
+    <string name="nama_ular">Nama Ular</string>
+    <string name="detail_ular">Detail ular</string>
+    <string name="apakah_unik">Apakah ada Fakta Menarik?</string>
+    <string name="fakta_unik">Fakta Unik</string>
+    <string name="penaganan_ular">Penaganan Ular</string>
+    <string name="update_ular">Update Ular</string>
+    <string name="update">Update</string>
+    <string name="hapus">Hapus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tentang">Tentang</string>
+    <string name="list_ular">List Ular</string>
+    <string name="fakta_menarik">Penanganan Ular</string>
+    <string name="kuis">Kuis</string>
+    <string name="mulai">Mulai</string>
+    <string name="skor_terbaik_0">Skor terbaik: 0</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="selesai">Selesai</string>
+</resources>

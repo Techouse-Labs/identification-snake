@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:title="@string/jenis_ular"
+        android:icon="@drawable/outline_pets_24" />
+
+    <item android:id="@+id/menu_fact"
+        android:title="@string/penaganan_ular"
+        android:icon="@drawable/outline_fact_check_24" />
+
+
+    <item android:id="@+id/menu_quiz"
+        android:title="@string/kuis"
+        android:icon="@drawable/outline_assignment_24" />
+
+    <item android:id="@+id/menu_about"
+        android:title="@string/tentang"
+        android:icon="@drawable/outline_info_24" />
+</menu>
